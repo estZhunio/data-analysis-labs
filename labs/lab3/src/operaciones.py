@@ -1,7 +1,7 @@
 """
 Estado final (corregido).
 
-Antes (version "mala", comentada solo para documentar):
+Antes (version erronea, comentada solo para documentar):
 
     def dividir(a: float, b):
         if b == 0:
