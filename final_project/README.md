@@ -211,12 +211,12 @@ leer_datos → datos_procesados → metrica_incidencia_7d
 ### 5.1 Cumplimiento de Objetivos del Proyecto
 
 **Objetivos alcanzados:**
-✅ Pipeline automatizado con descarga desde fuente canónica  
-✅ Implementación de 6 asset checks con reporte integrado en UI  
-✅ Cálculo de 2 métricas epidemiológicas específicas según fórmulas exactas  
-✅ Tabla de resumen de validaciones con estructura requerida  
-✅ Exportación a Excel con hojas organizadas por tipo de resultado  
-✅ Comparación bilateral Ecuador-Finlandia con análisis diferencial  
+  - Pipeline automatizado con descarga desde fuente canónica  
+  - Implementación de 6 asset checks con reporte integrado en UI  
+  - Cálculo de 2 métricas epidemiológicas específicas según fórmulas exactas  
+  - Tabla de resumen de validaciones con estructura requerida  
+  - Exportación a Excel con hojas organizadas por tipo de resultado  
+  - Comparación bilateral Ecuador-Finlandia con análisis diferencial  
 
 ### 5.2 Fortalezas del Pipeline Desarrollado
 
