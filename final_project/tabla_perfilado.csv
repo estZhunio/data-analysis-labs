@@ -1,0 +1,2 @@
+total_filas_dataset,total_columnas,paises_analizados,registros_ecuador,registros_finland,fecha_inicio,fecha_fin,new_cases_minimo,new_cases_maximo,porcentaje_missing_new_cases,porcentaje_missing_people_vaccinated,columnas_principales
+523599,61,"Ecuador, Finland",2069,2069,2020-01-01,2025-12-28,0.0,11536.0,1.2,83.3,"country,date,new_cases,people_vaccinated,population"
